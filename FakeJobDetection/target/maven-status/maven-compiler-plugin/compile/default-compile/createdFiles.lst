@@ -1,0 +1,4 @@
+com\mycompany\fakejobdetection\resources\JakartaEE11Resource.class
+com\mycompany\fakejobdetection\AnalyzeServlet.class
+com\mycompany\fakejobdetection\JakartaRestConfiguration.class
+com\mycompany\fakejobdetection\RegisterServlet.class
